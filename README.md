@@ -27,7 +27,7 @@ routine Pro is a smart routine tracker designed for polytechnic students .
 
 ## Screenshots
 
-| Home & Live Tracker | Dual Mode / Settings | Institute Setup |
+| HOME & LIVE TRACKER | CLASS ROUTINE | EXAM ROUTINE |
 |--- |--- |--- |
 | <img width="260" alt="Home" src="https://github.com/user-attachments/assets/c5f95764-ff84-4dc9-979d-dc151877c802" /> | <img width="260" alt="Dual Mode" src="https://github.com/user-attachments/assets/3897894e-2d68-437f-92ab-e080543eade5" /> | <img width="260" alt="Setup" src="https://github.com/user-attachments/assets/189797dd-e3b9-419f-ba3b-7362c727f4e5" /> |
 
