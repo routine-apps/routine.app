@@ -3,7 +3,7 @@
 
 
 
-routine Pro is a smart routine tracker designed for polytechnic students in Bangladesh.
+routine Pro is a smart routine tracker designed for polytechnic students .
 
 ---
 
