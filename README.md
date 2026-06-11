@@ -3,7 +3,8 @@
 
 
 
-routine Pro is a smart routine tracker designed for polytechnic students .
+routine App is a smart routine tracker designed for polytechnic students.
+
 
 ---
 
